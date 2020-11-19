@@ -7,7 +7,7 @@ The report contains a new market analysis, an in depth assessment of the suspect
 
 The repository includes the PowerPoint report, the Python code, and several Tableau image assets used in the report.
 
-<b> Author: </b> 
-Stephen Stark
-stephen.stark@uchicago.edu
-stephen.stark11@gmail.com
+<b> Author: </b>
+Stephen Stark  
+* stephen.stark@uchicago.edu  
+* stephen.stark11@gmail.com  
